@@ -23,17 +23,9 @@
 
 ### ИЗБРАННЫЙ ПРОЕКТ
 
-* **[kodikdown](https://github.com/SHAWNiksDev/kodikdown)** — Консольная утилита для удобного скачивания видео из плеера Kodik с выбором качества.
+* **[kodikdown](https://github.com/SHAWNiksDev/kodikdown)** — Программа/консольная утилита для скачивания видео с плеера Kodik.
 
----
-
-### СТАТИСТИКА
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAWNiksDev&locale=ru&show_icons=true&theme=tokyonight&border_radius=8&bg_color=161B22&border_color=30363D&hide_rank=true&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" alt="Статистика" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAWNiksDev&locale=ru&layout=compact&theme=tokyonight&border_radius=8&bg_color=161B22&border_color=30363D&custom_title=%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8" alt="Языки" />
-</p>
+<br/>
 
 <p align="center">
   <img src="https://count.getloli.com/get/@alexkutischev_linktree_2026?theme=rule34&padding=5" width="360" alt="Counter" />
@@ -65,17 +57,9 @@
 
   ### FEATURED PROJECT
 
-  * **[kodikdown](https://github.com/SHAWNiksDev/kodikdown)** — Lightweight CLI tool for downloading video from Kodik player with quality selection.
+  * **[kodikdown](https://github.com/SHAWNiksDev/kodikdown)** — Software / CLI tool for downloading videos from the Kodik player.
 
-  ---
-
-  ### STATS
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SHAWNiksDev&show_icons=true&theme=tokyonight&border_radius=8&bg_color=161B22&border_color=30363D&hide_rank=true" alt="Stats" />
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAWNiksDev&layout=compact&theme=tokyonight&border_radius=8&bg_color=161B22&border_color=30363D" alt="Languages" />
-  </p>
+  <br/>
 
   <p align="center">
     <img src="https://count.getloli.com/get/@alexkutischev_linktree_2026?theme=rule34&padding=5" width="360" alt="Counter" />
