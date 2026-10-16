@@ -30,7 +30,7 @@
 ### STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAWNiksDev&show_icons=true&theme=tokyonight&border_radius=8&bg_color=161B22&border_color=30363D&hide_rank=truehide_rank=trueinclude_all_commits=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHAWNiksDev&show_icons=true&theme=tokyonight&border_radius=8&bg_color=161B22&border_color=30363D&hide_rank=true&include_all_commits=true&hide=contribs" alt="Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAWNiksDev&layout=compact&theme=tokyonight&border_radius=8&bg_color=161B22&border_color=30363D" alt="Languages" />
 </p>
