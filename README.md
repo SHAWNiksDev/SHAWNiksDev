@@ -30,7 +30,7 @@
 ### СТАТИСТИКА
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAWNiksDev&locale=ru&show_icons=true&theme=tokyonight&border_radius=8&bg_color=161B22&border_color=30363D&hide_rank=true&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&include_all_commits=true&hide=contribs" alt="Статистика" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHAWNiksDev&locale=ru&show_icons=true&theme=tokyonight&border_radius=8&bg_color=161B22&border_color=30363D&hide_rank=true&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" alt="Статистика" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAWNiksDev&locale=ru&layout=compact&theme=tokyonight&border_radius=8&bg_color=161B22&border_color=30363D&custom_title=%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8" alt="Языки" />
 </p>
@@ -72,7 +72,7 @@
   ### STATS
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SHAWNiksDev&show_icons=true&theme=tokyonight&border_radius=8&bg_color=161B22&border_color=30363D&hide_rank=true&include_all_commits=true&hide=contribs" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SHAWNiksDev&show_icons=true&theme=tokyonight&border_radius=8&bg_color=161B22&border_color=30363D&hide_rank=true" alt="Stats" />
     &nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAWNiksDev&layout=compact&theme=tokyonight&border_radius=8&bg_color=161B22&border_color=30363D" alt="Languages" />
   </p>
